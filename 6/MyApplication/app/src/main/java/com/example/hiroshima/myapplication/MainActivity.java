@@ -50,6 +50,7 @@ public class MainActivity extends Activity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Log.d("lig: ", "clicked");
                 Toast.makeText(getApplicationContext(), "リストを表示します", Toast.LENGTH_SHORT).show();
                 button.setVisibility(View.GONE);
                 fetch();
