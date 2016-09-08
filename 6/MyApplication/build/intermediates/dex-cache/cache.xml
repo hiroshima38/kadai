@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/classes-d25755c43efed3531d27c243ca503b239f1cdcf0.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/classes-aaaa166a4d6792a491aed8b5e88ba8da90481741.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/classes-2c992fcbd9b1fb7a4e038b5627377d649167999b.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/classes-be8a754d56d1ca967fbdee54014048393b05d400.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/classes-08a8045279cbd530efb6a90e188d647c82ab1b45.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/classes-6fd27fab1cddb67c57e16515bb2057bde37c792c.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/classes-d08813e38108955547e0e252b2fdc149d2551137.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0-3a3550a5d59b5ee3b6c9a72f838095467818fd0d.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/classes-331baf0412aeb2efaf3d44c777b833cfa13dfefe.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0-14632aec41b447046f5de091d6846eecd8bcf0ae.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.volley/volley/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="eafe057ecc4da90c8797531fa211dbb49b4435a3">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/classes-1c7d012cc53de794992f505a49d239c38fc03729.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/classes-f0a98cd6e5f0a20026d793cf5f575c224ec10d33.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/classes-9651a19886245103e30873fd851f4bfdf0f7b22c.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0-d9171b38af086e2036a071f479d39dfce804416f.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0-f74fe67d08bd6877cc8256824094dcd6c749c975.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/classes-677c81ced806da6b1b2eb750150d3dd227bee8b7.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0-2be3019ded87235a960a29c85be2b561985cb188.jar" />
+    </item>
+    <item
+        jar="/Users/hiroshima/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/hiroshima/GsAndroid/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0-effb8c97c14716aba059dcc5a13e956f8657eb59.jar" />
+    </item>
+
+</items>
